@@ -47,3 +47,33 @@ BitePoints Rewards: A gamified point system where users earn points for every do
 Refer-a-Friend: Unique shareable links that grant both the referrer and the new user account credits upon the first successful order.
 
 Personalized "Favorites" Aisle: An algorithm-driven section of the app that populates a user's most frequently bought items for rapid re-ordering.
+
+
+**🔮 Future Pipeline & Feature Backlog**
+While the core features focus on a seamless shopping and delivery experience, our product roadmap includes several advanced features designed to deepen user engagement, promote sustainability, and leverage emerging technologies.
+
+AI & Hyper-Personalization
+Smart Recipe Generator: An AI-powered feature that suggests recipes based on the items currently in the user's cart or past purchases, allowing them to add missing ingredients with one tap.
+
+Nutritional Goal Syncing: Integration with health apps (Apple Health, Google Fit) to recommend foods and meal kits that align with a user's specific macro-nutrient goals or health conditions.
+
+Dynamic Pricing/Surplus Alerts: Push notifications offering discounted prices on perishable goods nearing the end of their optimal freshness window to reduce food waste.
+
+Sustainability Initiatives
+Carbon Footprint Tracker: A dashboard metric showing users the carbon emissions saved by ordering directly from local farms versus traditional supermarket supply chains.
+
+Reusable Container Program: A system to track, return, and scan reusable packaging or cooler bags for account credit.
+
+Eco-Checkout Options: An opt-in toggle at checkout allowing users to round up their total to purchase carbon offsets for their delivery.
+
+Community & Social Commerce
+Direct Farmer Tipping: A post-delivery feature allowing users to send a digital tip or a "thank you" note directly to the independent brand or farm that grew their food.
+
+Neighborhood Drops (Group Buying): A feature that unlocks bulk discounts and free shipping if a certain number of users in the same zip code order from the same farm on the same delivery day.
+
+User-Generated Cookbooks: A social feed where users can upload photos and recipes using FreshBites ingredients, earning loyalty points when others "like" or shop their recipe.
+
+Advanced Tech Integrations
+Smart Fridge Integration: IoT integration allowing the app to communicate with smart refrigerators to automatically add depleted staples (like milk or eggs) to the recurring subscription cart.
+
+AR "Meet the Maker": Augmented Reality markers on physical packaging that users can scan with their phone to watch a quick video of the farmer or artisan who created the product.
