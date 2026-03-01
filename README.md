@@ -49,7 +49,7 @@ Refer-a-Friend: Unique shareable links that grant both the referrer and the new 
 Personalized "Favorites" Aisle: An algorithm-driven section of the app that populates a user's most frequently bought items for rapid re-ordering.
 
 
-**🔮 Future Pipeline & Feature Backlog**
+BACKLOG
 While the core features focus on a seamless shopping and delivery experience, our product roadmap includes several advanced features designed to deepen user engagement, promote sustainability, and leverage emerging technologies.
 
 AI & Hyper-Personalization
